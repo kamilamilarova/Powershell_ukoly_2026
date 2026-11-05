@@ -11,7 +11,7 @@ Každý úkol je zpracován v samostatném Markdown souboru a obsahuje zadání,
 | 1 | OWASP Juice Shop – nákup Vánočního speciálu z roku 2014 a uplatnění slevového kupónu | [Zobrazit řešení](ukol_1_juice_shop.md) |
 | 2 | PowerShell – vykreslení palety 16 barev terminálu | [Zobrazit řešení](ukol_2_paleta_barev.md) |
 | 3 | PowerShell – vytvoření aliasů, záloha a obnova pomocí JSON a XML | [Zobrazit řešení](ukol_3_zaloha_aliasu.md) |
-| 4 | PowerShell – ověření palindromu a statistika textu | [Zobrazit řešení](ukol_4/ukol_4_palindrom.md) |
+| 4 | PowerShell – ověření palindromu a statistika textu | [Zobrazit řešení](ukol_4/ukol_4_palindrom_a_statistika_txt.md) |
 
 ## Použité nástroje
 
