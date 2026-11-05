@@ -19,3 +19,4 @@ Každý úkol je zpracován v samostatném Markdown souboru a obsahuje zadání,
 - Vývojářské nástroje prohlížeče
 - PowerShell
 - Git a GitHub
+- Visual Studio Code
