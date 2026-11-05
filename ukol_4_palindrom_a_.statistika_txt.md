@@ -17,6 +17,7 @@ Skript jsem uložila jako `palindrom.ps1`. Ve složce se souborem se spouští p
 ```powershell
 .\palindrom.ps1
 ```
+<img width="591" height="227" alt="image" src="https://github.com/user-attachments/assets/de47f9a8-706e-4e30-88c1-4b0a5df0bafd" />
 
 
 ## Část 2 – Počítání znaků, samohlásek a slov
@@ -33,4 +34,5 @@ Text načítá příkaz `Read-Host`. Vlastnost `.Length` zjistí počet znaků. 
 
 > Lewis Powell působil jako právník specializující se na tabákový průmysl ve společnosti Philip Morris. Byl pověřen, aby pro Americkou obchodní komoru vypracoval důvěrný dokument s cílem obnovit a rozšířit vliv korporací.
 
+<img width="1458" height="180" alt="image" src="https://github.com/user-attachments/assets/eb3272f5-0730-43e2-b4dc-0bba4b48d684" />
 
